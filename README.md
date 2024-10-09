@@ -1,0 +1,1 @@
+Storefront is a web-based application developed using the Django framework, designed to manage and store comprehensive information about a shop's inventory, customer details, and purchase transactions. The project provides an organized, user-friendly interface for shop owners and employees to maintain and access essential business data
